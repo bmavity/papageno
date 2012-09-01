@@ -1,0 +1,29 @@
+{
+  "author": "Brian Mavity <brian@brianmavity.com> (http://www.brianmavity.com)"
+, "bugs": {
+    "url": "https://github.com/bmavity/papageno/issues"
+  }
+, "contributors": [
+    "Brian Mavity <brian@brianmavity.com> (http://www.brianmavity.com)"
+  ]
+, "description": "An experimental asynchronous context/observation specification library"
+, "dependencies": {
+    "wagner": "0.1.x"
+  }
+, "directories": {
+    "bin": "./bin"
+  }
+, "engines": {
+    "node": "0.8.x"
+  }
+, "keywords": [
+    "testing", "specification"
+  ]
+, "main": "./lib/index.js"
+, "name": "papageno"
+, "repository": {
+    "type": "git"
+  , "url": "git://github.com/bmavity/papageno.git"
+  }
+, "version": "0.1.0"
+}
