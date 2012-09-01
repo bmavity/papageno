@@ -1,2 +1,2 @@
 # papageno
-## An asyn context observation framework for JavaScript
+## An asynchronous context/observation specification library
