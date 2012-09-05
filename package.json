@@ -1,5 +1,8 @@
 {
   "author": "Brian Mavity <brian@brianmavity.com> (http://www.brianmavity.com)"
+, "bin": {
+    "papageno": "./bin/papageno-cli.js"
+  }
 , "bugs": {
     "url": "https://github.com/bmavity/papageno/issues"
   }
@@ -9,6 +12,7 @@
 , "description": "An experimental asynchronous context/observation specification library"
 , "dependencies": {
     "wagner": "0.1.x"
+  , "optimist": "0.3.x"
   }
 , "directories": {
     "bin": "./bin"
@@ -19,8 +23,14 @@
 , "keywords": [
     "testing", "specification"
   ]
+, "licenses": [{
+      "type": "MIT +no-false-attribs, +no-advertising"
+    , "url": "https://raw.github.com/bmavity/papageno/master/LICENSE"
+    }
+  ]
 , "main": "./lib/index.js"
 , "name": "papageno"
+, "preferGlobal": true
 , "repository": {
     "type": "git"
   , "url": "git://github.com/bmavity/papageno.git"
