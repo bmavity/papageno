@@ -1,0 +1,575 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ob",
+				"observation"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"on",
+				"onSpecCb"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"contex",
+				"contexts"
+			],
+			[
+				"sub",
+				"subjectObj"
+			],
+			[
+				"conte",
+				"contexts"
+			],
+			[
+				"ex",
+				"exports"
+			],
+			[
+				"re",
+				"resolveFilePath"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fr",
+				"framework"
+			],
+			[
+				"Type",
+				"TypeMember"
+			],
+			[
+				"add",
+				"Add"
+			],
+			[
+				"in",
+				"Init"
+			],
+			[
+				"Init",
+				"Init2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 933,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/index.js",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/papageno.js",
+			"settings":
+			{
+				"buffer_size": 190,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 71,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bin/papageno-cli.js",
+			"settings":
+			{
+				"buffer_size": 305,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/matchers.js",
+			"settings":
+			{
+				"buffer_size": 456,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/runner.js",
+			"settings":
+			{
+				"buffer_size": 1147,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/loader.js",
+			"settings":
+			{
+				"buffer_size": 790,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Anonymous Function"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 203.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bmavity/node_projects/papageno/lib/papageno.matchers.js",
+		"/Users/bmavity/node_projects/papageno/lib/papageno.runner.js",
+		"/Users/bmavity/node_projects/papageno/lib/papageno.loader.js",
+		"/Users/bmavity/node_projects/papageno/papageno.matchers.js",
+		"/Users/bmavity/node_projects/papageno/module.js",
+		"/Users/bmavity/node_projects/papageno/test/specCreation.js",
+		"/Users/bmavity/node_projects/papageno/bin/papageno.js",
+		"/Users/bmavity/node_projects/papageno/LICENSE",
+		"/Users/bmavity/node_projects/papageno/papageno.js",
+		"/Users/bmavity/node_projects/papageno/.gitignore",
+		"/Users/bmavity/node_projects/wagner/testacular.conf.js",
+		"/Users/bmavity/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/bmavity/.bashrc",
+		"/Users/bmavity/net_projects/Phantom/src/Phantom/Phantom.csproj",
+		"/Users/bmavity/net_projects/boo/booc",
+		"/Users/bmavity/net_projects/boo/booi",
+		"/Users/bmavity/net_projects/boo-extensions/src/Boo.OMeta.Parser/BooParserStep.boo",
+		"/Users/bmavity/net_projects/boo-extensions/src/Boo.Pegs/Boo.Pegs.booproj",
+		"/Users/bmavity/net_projects/boo-extensions/src/Boo.Adt/Boo.Adt.booproj",
+		"/Users/bmavity/net_projects/boo-extensions/src/Boo.Adt/DataMacro.boo",
+		"/Users/bmavity/net_projects/boo-extensions/src/Boo.OMeta.Parser/Boo.OMeta.Parser.booproj",
+		"/Users/bmavity/net_projects/boo-extensions/src/Boo.OMeta/TokensMacro.boo",
+		"/Users/bmavity/net_projects/boo-extensions/src/Boo.OMeta.Parser/RegexpGrammar.boo",
+		"/Users/bmavity/net_projects/boo-extensions/src/Boo.OMeta/KeywordsMacro.boo",
+		"/Users/bmavity/net_projects/boo-extensions/src/Boo.OMeta.Parser/TokensMacro.boo",
+		"/Users/bmavity/net_projects/boo-extensions/Boo.Extensions.sln"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/bmavity/net_projects/boo-extensions/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"command",
+			"operatic",
+			"choicesrulefrom",
+			"addrange"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								933
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/index.js",
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/papageno.js",
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+							"bookmark_w":
+							{
+								"flags": 144,
+								"regions":
+								[
+									[
+										190,
+										190
+									]
+								]
+							}
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 71,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "bin/papageno-cli.js",
+					"settings":
+					{
+						"buffer_size": 305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/matchers.js",
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lib/runner.js",
+					"settings":
+					{
+						"buffer_size": 1147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "lib/loader.js",
+					"settings":
+					{
+						"buffer_size": 790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								606,
+								606
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 183.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"loa",
+				"lib/loader.js"
+			],
+			[
+				"runn",
+				"lib/runner.js"
+			],
+			[
+				"ma",
+				"lib/matchers.js"
+			],
+			[
+				"p.ma",
+				"lib/papageno.matchers.js"
+			],
+			[
+				"pa-c",
+				"bin/papageno-cli.js"
+			],
+			[
+				"li",
+				"LICENSE"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true
+}

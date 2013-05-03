@@ -1,2 +1,2 @@
 # papageno
-## An asynchronous context/observation specification library
+## Command and Query handler discovery

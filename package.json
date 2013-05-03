@@ -1,7 +1,9 @@
 {
-  "author": "Brian Mavity <brian@brianmavity.com> (http://www.brianmavity.com)"
-, "bin": {
-    "papageno": "./bin/papageno-cli.js"
+  "name": "papageno"
+, "author": "Brian Mavity <brian@brianmavity.com> (http://www.brianmavity.com)"
+, "repository": {
+    "type": "git",
+    "url": "git://github.com/bmavity/papageno.git"
   }
 , "bugs": {
     "url": "https://github.com/bmavity/papageno/issues"
@@ -9,31 +11,17 @@
 , "contributors": [
     "Brian Mavity <brian@brianmavity.com> (http://www.brianmavity.com)"
   ]
-, "description": "An experimental asynchronous context/observation specification library"
+, "description": "Command and Query handling for node.js"
 , "dependencies": {
-    "wagner": "0.1.x"
-  , "optimist": "0.3.x"
   }
-, "directories": {
-    "bin": "./bin"
+, "devDependencies": {
   }
 , "engines": {
-    "node": "0.8.x"
+    "node": "0.8.x, 0.10.x"
   }
 , "keywords": [
-    "testing", "specification"
   ]
-, "licenses": [{
-      "type": "MIT +no-false-attribs, +no-advertising"
-    , "url": "https://raw.github.com/bmavity/papageno/master/LICENSE"
-    }
-  ]
-, "main": "./lib/index.js"
-, "name": "papageno"
-, "preferGlobal": true
-, "repository": {
-    "type": "git"
-  , "url": "git://github.com/bmavity/papageno.git"
-  }
-, "version": "0.1.0"
+, "license": "MIT +no-false-attribs, +no-advertising License"
+, "main": "./papageno.js"
+, "version": "0.2.0"
 }
